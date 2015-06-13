@@ -1,0 +1,6 @@
+c:\users\ok\documents\visual studio 2013\Projects\Lista_Lp2_Rec\Lista_Lp2_Rec\bin\Debug\Lista_Lp2_Rec.exe.config
+c:\users\ok\documents\visual studio 2013\Projects\Lista_Lp2_Rec\Lista_Lp2_Rec\bin\Debug\Lista_Lp2_Rec.exe
+c:\users\ok\documents\visual studio 2013\Projects\Lista_Lp2_Rec\Lista_Lp2_Rec\bin\Debug\Lista_Lp2_Rec.pdb
+c:\users\ok\documents\visual studio 2013\Projects\Lista_Lp2_Rec\Lista_Lp2_Rec\obj\Debug\Lista_Lp2_Rec.csprojResolveAssemblyReference.cache
+c:\users\ok\documents\visual studio 2013\Projects\Lista_Lp2_Rec\Lista_Lp2_Rec\obj\Debug\Lista_Lp2_Rec.exe
+c:\users\ok\documents\visual studio 2013\Projects\Lista_Lp2_Rec\Lista_Lp2_Rec\obj\Debug\Lista_Lp2_Rec.pdb
