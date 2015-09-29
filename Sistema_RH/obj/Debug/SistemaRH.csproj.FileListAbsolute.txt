@@ -1,0 +1,6 @@
+C:\Users\ok\documents\visual studio 2015\Projects\Exercicio_12\Exercicio_12\bin\Debug\Exercicio_12.exe.config
+C:\Users\ok\documents\visual studio 2015\Projects\Exercicio_12\Exercicio_12\bin\Debug\Exercicio_12.exe
+C:\Users\ok\documents\visual studio 2015\Projects\Exercicio_12\Exercicio_12\bin\Debug\Exercicio_12.pdb
+C:\Users\ok\documents\visual studio 2015\Projects\Exercicio_12\Exercicio_12\obj\Debug\SistemaRH.csprojResolveAssemblyReference.cache
+C:\Users\ok\documents\visual studio 2015\Projects\Exercicio_12\Exercicio_12\obj\Debug\Exercicio_12.exe
+C:\Users\ok\documents\visual studio 2015\Projects\Exercicio_12\Exercicio_12\obj\Debug\Exercicio_12.pdb
