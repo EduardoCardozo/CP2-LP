@@ -1,0 +1,7 @@
+c:\users\ok\documents\visual studio 2015\Projects\CadastroPessoas\CadastroPessoas\bin\Debug\CadastroPessoas.exe.config
+c:\users\ok\documents\visual studio 2015\Projects\CadastroPessoas\CadastroPessoas\bin\Debug\CadastroPessoas.exe
+c:\users\ok\documents\visual studio 2015\Projects\CadastroPessoas\CadastroPessoas\bin\Debug\CadastroPessoas.pdb
+c:\users\ok\documents\visual studio 2015\Projects\CadastroPessoas\CadastroPessoas\bin\Debug\MySql.Data.dll
+c:\users\ok\documents\visual studio 2015\Projects\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csprojResolveAssemblyReference.cache
+c:\users\ok\documents\visual studio 2015\Projects\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.exe
+c:\users\ok\documents\visual studio 2015\Projects\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.pdb
