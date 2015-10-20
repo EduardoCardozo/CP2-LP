@@ -45,7 +45,7 @@ namespace CadastroPessoas
                         Console.WriteLine("Pesquisa:\n");
                         for (int i = 0; i < pessoas.Count; i++)
                         {
-                            Console.WriteLine("ID: {0}\nNome:{1}\nSobrenome: {2}", pessoas[3].Id, pessoas[i].Nome, pessoas[i].Sobrenome);
+                            Console.WriteLine("ID: {0}\nNome:{1}\nSobrenome: {2}", pessoas[i].Id, pessoas[i].Nome, pessoas[i].Sobrenome);
                         }
                         Console.Write("Escolha o ID:");
                         int id = int.Parse(Console.ReadLine());
