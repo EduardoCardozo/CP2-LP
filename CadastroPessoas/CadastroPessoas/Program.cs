@@ -28,8 +28,6 @@ namespace CadastroPessoas
             Console.WriteLine("Opções:\n1 - Inserir.\n2 - Consultar.\n0 - Sair.");          
             Console.Write("\nOpção: ");
 
-            
- 
             int opcao = int.Parse(Console.ReadLine());
 
             while (opcao != 0)
@@ -38,7 +36,6 @@ namespace CadastroPessoas
                 {
                     case 1:
                         Inserir();
-
                         break;
                     case 2:                       
                         Consultar();                               
@@ -49,7 +46,6 @@ namespace CadastroPessoas
               }               
                 LimparConsole();
                 opcao = int.Parse(Console.ReadLine());
-                
             }
 
             Console.WriteLine("\nObrigado por utilizar nosso programa!");
@@ -85,9 +81,7 @@ namespace CadastroPessoas
                     break;
                 default:
                     throw new ArgumentOutOfRangeException("Opção inválida");
-
             }
-                        
         }
               
         public static void LimparConsole()
@@ -111,5 +105,5 @@ namespace CadastroPessoas
             Console.Write("Telefone: ");
             p.Telefone = Console.ReadLine();
         }
-            }
+    }     
 }
