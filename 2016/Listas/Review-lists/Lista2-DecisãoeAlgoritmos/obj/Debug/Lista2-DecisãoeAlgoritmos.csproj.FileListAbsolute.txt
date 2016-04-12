@@ -1,0 +1,6 @@
+C:\Users\adriana\Documents\GitHub\Linguagem de Programação\2016\Listas\Review-lists\Lista2-DecisãoeAlgoritmos\bin\Debug\Lista2_DecisãoeAlgoritmos.exe.config
+C:\Users\adriana\Documents\GitHub\Linguagem de Programação\2016\Listas\Review-lists\Lista2-DecisãoeAlgoritmos\bin\Debug\Lista2_DecisãoeAlgoritmos.exe
+C:\Users\adriana\Documents\GitHub\Linguagem de Programação\2016\Listas\Review-lists\Lista2-DecisãoeAlgoritmos\bin\Debug\Lista2_DecisãoeAlgoritmos.pdb
+C:\Users\adriana\Documents\GitHub\Linguagem de Programação\2016\Listas\Review-lists\Lista2-DecisãoeAlgoritmos\obj\Debug\Lista2-DecisãoeAlgoritmos.csprojResolveAssemblyReference.cache
+C:\Users\adriana\Documents\GitHub\Linguagem de Programação\2016\Listas\Review-lists\Lista2-DecisãoeAlgoritmos\obj\Debug\Lista2_DecisãoeAlgoritmos.exe
+C:\Users\adriana\Documents\GitHub\Linguagem de Programação\2016\Listas\Review-lists\Lista2-DecisãoeAlgoritmos\obj\Debug\Lista2_DecisãoeAlgoritmos.pdb
