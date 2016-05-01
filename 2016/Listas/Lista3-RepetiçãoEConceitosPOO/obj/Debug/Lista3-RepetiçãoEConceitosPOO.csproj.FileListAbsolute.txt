@@ -1,0 +1,6 @@
+c:\users\adriana\documents\visual studio 2015\Projects\Lista3-RepetiçãoEConceitosPOO\Lista3-RepetiçãoEConceitosPOO\bin\Debug\Lista3-RepetiçãoEConceitosPOO.exe.config
+c:\users\adriana\documents\visual studio 2015\Projects\Lista3-RepetiçãoEConceitosPOO\Lista3-RepetiçãoEConceitosPOO\bin\Debug\Lista3-RepetiçãoEConceitosPOO.exe
+c:\users\adriana\documents\visual studio 2015\Projects\Lista3-RepetiçãoEConceitosPOO\Lista3-RepetiçãoEConceitosPOO\bin\Debug\Lista3-RepetiçãoEConceitosPOO.pdb
+c:\users\adriana\documents\visual studio 2015\Projects\Lista3-RepetiçãoEConceitosPOO\Lista3-RepetiçãoEConceitosPOO\obj\Debug\Lista3-RepetiçãoEConceitosPOO.csprojResolveAssemblyReference.cache
+c:\users\adriana\documents\visual studio 2015\Projects\Lista3-RepetiçãoEConceitosPOO\Lista3-RepetiçãoEConceitosPOO\obj\Debug\Lista3-RepetiçãoEConceitosPOO.exe
+c:\users\adriana\documents\visual studio 2015\Projects\Lista3-RepetiçãoEConceitosPOO\Lista3-RepetiçãoEConceitosPOO\obj\Debug\Lista3-RepetiçãoEConceitosPOO.pdb
