@@ -1,0 +1,14 @@
+c:\users\alunoct\documents\visual studio 2013\Projects\trablp4\trablp4\bin\Debug\trablp4.exe.config
+c:\users\alunoct\documents\visual studio 2013\Projects\trablp4\trablp4\bin\Debug\trablp4.exe
+c:\users\alunoct\documents\visual studio 2013\Projects\trablp4\trablp4\bin\Debug\trablp4.pdb
+c:\users\alunoct\documents\visual studio 2013\Projects\trablp4\trablp4\bin\Debug\MySql.Data.dll
+c:\users\alunoct\documents\visual studio 2013\Projects\trablp4\trablp4\obj\Debug\trablp4.csprojResolveAssemblyReference.cache
+c:\users\alunoct\documents\visual studio 2013\Projects\trablp4\trablp4\obj\Debug\MainWindow.baml
+c:\users\alunoct\documents\visual studio 2013\Projects\trablp4\trablp4\obj\Debug\MainWindow.g.cs
+c:\users\alunoct\documents\visual studio 2013\Projects\trablp4\trablp4\obj\Debug\App.g.cs
+c:\users\alunoct\documents\visual studio 2013\Projects\trablp4\trablp4\obj\Debug\trablp4_MarkupCompile.cache
+c:\users\alunoct\documents\visual studio 2013\Projects\trablp4\trablp4\obj\Debug\trablp4.g.resources
+c:\users\alunoct\documents\visual studio 2013\Projects\trablp4\trablp4\obj\Debug\trablp4.Properties.Resources.resources
+c:\users\alunoct\documents\visual studio 2013\Projects\trablp4\trablp4\obj\Debug\trablp4.csproj.GenerateResource.Cache
+c:\users\alunoct\documents\visual studio 2013\Projects\trablp4\trablp4\obj\Debug\trablp4.exe
+c:\users\alunoct\documents\visual studio 2013\Projects\trablp4\trablp4\obj\Debug\trablp4.pdb

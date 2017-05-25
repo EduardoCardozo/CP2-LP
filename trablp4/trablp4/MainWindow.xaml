@@ -1,0 +1,21 @@
+﻿<Window x:Class="trablp4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="btnInserir" Content="Inserir" HorizontalAlignment="Left" Margin="227,166,0,0" VerticalAlignment="Top" Width="75" Click="btnInserir_Click"/>
+        <TextBox x:Name="txtIdade" HorizontalAlignment="Left" Height="23" Margin="50,38,0,0" TextWrapping="Wrap" Text="Idade" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtNome" HorizontalAlignment="Left" Height="23" Margin="50,10,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Nome :" HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Idade: " HorizontalAlignment="Left" Margin="1,38,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top" Width="183">
+            <ComboBoxItem Content="DIREITA LIBERAL" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="DIREITA AUTORITÁRIA" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="ESQUERDA LIBERAL" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="ESQUERDA AUTORITÁRIA" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="CENTRO" HorizontalAlignment="Left" Width="118"/>
+        </ComboBox>
+        <Label Content="IDEOLOGIA" HorizontalAlignment="Left" Margin="10,69,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.237,0.423"/>
+
+    </Grid>
+</Window>
