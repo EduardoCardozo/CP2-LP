@@ -1,0 +1,18 @@
+﻿<Window x:Class="lp4.Consulta"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lp4"
+        mc:Ignorable="d"
+        Title="Consulta" Height="300" Width="300">
+    <Grid>
+        <Label Content="Nome: " HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtCNome" HorizontalAlignment="Left" Height="23" Margin="55,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="227" CharacterCasing="Upper"/>
+        <TextBox x:Name="txtCturma" HorizontalAlignment="Left" Height="23" Margin="55,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" CharacterCasing="Upper"/>
+        <DataGrid x:Name="dtGrid" HorizontalAlignment="Left" Height="142" Margin="0,117,0,0" VerticalAlignment="Top" Width="300"/>
+        <Label Content="Turma: " HorizontalAlignment="Left" Margin="10,45,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Pesquisar" Content="Pesquisar" HorizontalAlignment="Left" Margin="151,57,0,0" VerticalAlignment="Top" Width="119" Height="44" Click="Pesquisar_Click"/>
+
+    </Grid>
+</Window>

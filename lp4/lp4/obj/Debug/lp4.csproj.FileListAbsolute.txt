@@ -1,0 +1,35 @@
+c:\users\alunoct\documents\visual studio 2013\Projects\lp4\lp4\bin\Debug\lp4.exe.config
+c:\users\alunoct\documents\visual studio 2013\Projects\lp4\lp4\bin\Debug\lp4.exe
+c:\users\alunoct\documents\visual studio 2013\Projects\lp4\lp4\bin\Debug\lp4.pdb
+c:\users\alunoct\documents\visual studio 2013\Projects\lp4\lp4\obj\Debug\lp4.csprojResolveAssemblyReference.cache
+c:\users\alunoct\documents\visual studio 2013\Projects\lp4\lp4\obj\Debug\MainWindow.baml
+c:\users\alunoct\documents\visual studio 2013\Projects\lp4\lp4\obj\Debug\MainWindow.g.cs
+c:\users\alunoct\documents\visual studio 2013\Projects\lp4\lp4\obj\Debug\App.g.cs
+c:\users\alunoct\documents\visual studio 2013\Projects\lp4\lp4\obj\Debug\lp4_MarkupCompile.cache
+c:\users\alunoct\documents\visual studio 2013\Projects\lp4\lp4\obj\Debug\lp4.g.resources
+c:\users\alunoct\documents\visual studio 2013\Projects\lp4\lp4\obj\Debug\lp4.Properties.Resources.resources
+c:\users\alunoct\documents\visual studio 2013\Projects\lp4\lp4\obj\Debug\lp4.csproj.GenerateResource.Cache
+c:\users\alunoct\documents\visual studio 2013\Projects\lp4\lp4\obj\Debug\lp4.exe
+c:\users\alunoct\documents\visual studio 2013\Projects\lp4\lp4\obj\Debug\lp4.pdb
+c:\users\alunoct\documents\visual studio 2013\Projects\lp4\lp4\bin\Debug\MySql.Data.dll
+c:\users\alunoct\documents\visual studio 2013\Projects\lp4\lp4\obj\Debug\PrimeiraJanela.baml
+c:\users\alunoct\documents\visual studio 2013\Projects\lp4\lp4\obj\Debug\PrimeiraJanela.g.cs
+C:\Users\eduar\OneDrive\lp4\lp4\bin\Debug\lp4.exe.config
+C:\Users\eduar\OneDrive\lp4\lp4\bin\Debug\lp4.exe
+C:\Users\eduar\OneDrive\lp4\lp4\bin\Debug\lp4.pdb
+C:\Users\eduar\OneDrive\lp4\lp4\bin\Debug\MySql.Data.dll
+C:\Users\eduar\OneDrive\lp4\lp4\obj\Debug\lp4.csprojResolveAssemblyReference.cache
+C:\Users\eduar\OneDrive\lp4\lp4\obj\Debug\MainWindow.baml
+C:\Users\eduar\OneDrive\lp4\lp4\obj\Debug\PrimeiraJanela.baml
+C:\Users\eduar\OneDrive\lp4\lp4\obj\Debug\MainWindow.g.cs
+C:\Users\eduar\OneDrive\lp4\lp4\obj\Debug\PrimeiraJanela.g.cs
+C:\Users\eduar\OneDrive\lp4\lp4\obj\Debug\App.g.cs
+C:\Users\eduar\OneDrive\lp4\lp4\obj\Debug\lp4_MarkupCompile.cache
+C:\Users\eduar\OneDrive\lp4\lp4\obj\Debug\lp4.g.resources
+C:\Users\eduar\OneDrive\lp4\lp4\obj\Debug\lp4.Properties.Resources.resources
+C:\Users\eduar\OneDrive\lp4\lp4\obj\Debug\lp4.csproj.GenerateResource.Cache
+C:\Users\eduar\OneDrive\lp4\lp4\obj\Debug\lp4.exe
+C:\Users\eduar\OneDrive\lp4\lp4\obj\Debug\lp4.pdb
+C:\Users\eduar\OneDrive\lp4\lp4\obj\Debug\Consulta.g.cs
+C:\Users\eduar\OneDrive\lp4\lp4\obj\Debug\lp4_MarkupCompile.lref
+C:\Users\eduar\OneDrive\lp4\lp4\obj\Debug\Consulta.baml
