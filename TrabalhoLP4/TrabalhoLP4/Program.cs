@@ -70,7 +70,7 @@ namespace TrabalhoLP4
                     if(!processados[i] && distancia[i] < MaiorD)
                     {
                         MaiorD = distancia[i];
-                        u = 1;
+                        u = i;
                     }
                 }
 
