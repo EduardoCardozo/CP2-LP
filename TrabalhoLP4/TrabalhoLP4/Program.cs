@@ -13,36 +13,24 @@ namespace TrabalhoLP4
     class Program
     {
         public enum operacao { ListarTurma, Cronometro}
+
+        public static int[,] Grafo = new int[1000,1000];
+        public static bool[] processados = new bool[1000];
+        public static int[] distancia = new int[1000];
+        
+
         static void Main(string[] args)
         {
-            int op = 1;
-            switch ((int)op)
+            int op = int.Parse(Console.ReadLine());
+
+            switch (op)
             {
                 case 0:
                     ListarTurma();
                     break;
                 case 1:
-                    Cronometro();
+                    MenuDijkstra();
                     break;
-            }
-        }
-        protected static void myHandler(object sender, ConsoleCancelEventArgs args)
-        {
-            args.Cancel = true;
-        }
-
-
-        public static void Cronometro()
-        {
-            Stopwatch x = new Stopwatch();
-            x.Start();
-
-            while (true)
-            {
-                Console.WriteLine(x.Elapsed);
-
-                Thread.Sleep(1);
-                Console.Clear();
             }
         }
         public static void ListarTurma()
@@ -63,6 +51,61 @@ namespace TrabalhoLP4
 
             foreach (KeyValuePair<int, string> x in turma)
                 Console.WriteLine(x.Key + " " + x.Value);
+        }
+        public static void Dijkstra(int S, int n)
+        {
+
+            for (int i = 0; i < n; i++) distancia[i] = Grafo[S,i];
+
+            processados[S] = true;
+            distancia[S] = 0;
+
+            while(true)
+            {
+                int MaiorD = int.MaxValue;
+                int u = -1;
+
+                for(int i = 0; i < n; i++)
+                {
+                    if(!processados[i] && distancia[i] < MaiorD)
+                    {
+                        MaiorD = distancia[i];
+                        u = 1;
+                    }
+                }
+
+                if (u == -1) break;
+                processados[u] = true;
+
+                for (int i = 0; i < n; i++) distancia[i] = min(distancia[i], distancia[u] + Grafo[u, i]);
+            }
+
+        }
+        public static int min(int a, int b)
+        {
+            if (a < b) return a;
+            return b;
+        }
+        public static void MenuDijkstra()
+        {
+            int n = int.Parse(Console.ReadLine());
+            int q = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < 1000; i++)
+                for (int j = 0; j < 1000; j++)
+                    Grafo[i, j] = int.MaxValue;
+
+            for (int i = 0; i < q; i++)
+                Grafo[int.Parse(Console.ReadLine()), int.Parse(Console.ReadLine())] = int.Parse(Console.ReadLine());
+
+            Stopwatch sw = new Stopwatch();
+            sw.Start();
+            Dijkstra(0, n);
+            sw.Stop();
+
+            TimeSpan ts = sw.Elapsed;
+
+            Console.WriteLine("{0}:{1}:{2}", ts.Minutes, ts.Seconds, ts.Milliseconds);
         }
     }
 }
