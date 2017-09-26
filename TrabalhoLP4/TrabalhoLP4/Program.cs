@@ -54,6 +54,7 @@ namespace TrabalhoLP4
         }
         public static void Dijkstra(int S, int n)
         {
+            for (int i = 0; i < n; i++) processados[i] = false;
 
             for (int i = 0; i < n; i++) distancia[i] = Grafo[S,i];
 
