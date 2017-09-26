@@ -1,0 +1,6 @@
+C:\Users\alunoct\Desktop\LuanMoraesLP2\LuanMoraesLp2\2C\TrabalhoLP4\TrabalhoLP4\bin\Debug\TrabalhoLP4.exe.config
+C:\Users\alunoct\Desktop\LuanMoraesLP2\LuanMoraesLp2\2C\TrabalhoLP4\TrabalhoLP4\bin\Debug\TrabalhoLP4.exe
+C:\Users\alunoct\Desktop\LuanMoraesLP2\LuanMoraesLp2\2C\TrabalhoLP4\TrabalhoLP4\bin\Debug\TrabalhoLP4.pdb
+C:\Users\alunoct\Desktop\LuanMoraesLP2\LuanMoraesLp2\2C\TrabalhoLP4\TrabalhoLP4\obj\Debug\TrabalhoLP4.csprojResolveAssemblyReference.cache
+C:\Users\alunoct\Desktop\LuanMoraesLP2\LuanMoraesLp2\2C\TrabalhoLP4\TrabalhoLP4\obj\Debug\TrabalhoLP4.exe
+C:\Users\alunoct\Desktop\LuanMoraesLP2\LuanMoraesLp2\2C\TrabalhoLP4\TrabalhoLP4\obj\Debug\TrabalhoLP4.pdb
